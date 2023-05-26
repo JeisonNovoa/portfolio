@@ -22,7 +22,7 @@ Through passion, skill and creativity, I have overcome challenges and created in
 
 ## Enlaces y Recursos Adicionales
 
-- [Página de mi Portafolio en línea](https://github.com/JeisonNovoa/portfolio)
+- [Página de mi Portafolio en línea](https://courageous-zuccutto-44a67f.netlify.app/)
 - [Perfil de LinkedIn](https://www.linkedin.com/in/jeison-novoa/)
 - [Perfil de GitHub](https://github.com/JeisonNovoa)
 
