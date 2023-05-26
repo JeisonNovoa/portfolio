@@ -1,7 +1,7 @@
 # Back-End Web Development Portfolio
 
-Welcome to my portfolio! This is a collection of my best works in the field of Back-End Web Development. 
-Through passion, skill and creativity, I have overcome challenges and created innovative solutions.
+Welcome to my web development portfolio. Here you will find a selection of my projects, 
+skills and experience in the field of front-end web development.
 
 ## Screenshots
 
