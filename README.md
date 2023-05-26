@@ -3,33 +3,33 @@
 Welcome to my portfolio! This is a collection of my best works in the field of Back-End Web Development. 
 Through passion, skill and creativity, I have overcome challenges and created innovative solutions.
 
-## Captura de Pantalla
+## Screenshots
 
-![captura](./img/part1.png)
-![captura](./img/part2.png)
-![captura](./img/part3.png)
-![captura](./img/part4.png)
+![Screenshot](./img/part1.png)
+![Screenshot](./img/part2.png)
+![Screenshot](./img/part3.png)
+![Screenshot](./img/part4.png)
 
-## Tecnologías Utilizadas
+## Used technology
 
 - Lenguajes de programación: JavaScript
 - Tecnologias Web: HTML, CSS
 
-## Instrucciones de Uso
+## Instructions for use
 
-1. Clona este repositorio en tu máquina local.
-2. Navega a la carpeta del proyecto y abre el archivo "index.html" en tu navegador.
+1. Clone this repository to your local machine.
+2. Navigate to the project folder and open the "index.html" file in your browser.
 
 ## Enlaces y Recursos Adicionales
 
-- [Página de mi Portafolio en línea](https://courageous-zuccutto-44a67f.netlify.app/)
-- [Perfil de LinkedIn](https://www.linkedin.com/in/jeison-novoa/)
-- [Perfil de GitHub](https://github.com/JeisonNovoa)
+- [My Online Portfolio Page](https://courageous-zuccutto-44a67f.netlify.app/)
+- [LinkedIn Profile](https://www.linkedin.com/in/jeison-novoa/)
+- [GitHub profile](https://github.com/JeisonNovoa)
 
-## Contacto
+## Contact
 
-Si estás interesado en oportunidades laborales o colaboraciones, puedes contactarme a través de los siguientes medios:
+If you are interested in job opportunities or collaborations, you can contact me through the following means:
 
-- Correo Electrónico: jeisonnovoa7@gmail.com
+- Email: jeisonnovoa7@gmail.com
 - LinkedIn: [tu perfil de LinkedIn](https://www.linkedin.com/in/jeison-novoa/)
-- Teléfono: +57 3243956187
+- Cellphone: +57 3243956187
